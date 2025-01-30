@@ -1,4 +1,3 @@
-Here's a comprehensive README.md file for your Snake Game project:
 
 ```markdown
 # Snake Game
@@ -7,6 +6,8 @@ A classic Snake game implementation using HTML5 Canvas, CSS, and JavaScript.
 
 ![Snake Game Screenshot](https://via.placeholder.com/400x250.png?text=Snake+Game+Screenshot) 
 *(Consider adding an actual screenshot later)*
+
+**Live Demo:** [Play Now](https://wonderful-kitten-15a771.netlify.app/)
 
 ## Features
 
@@ -23,11 +24,13 @@ A classic Snake game implementation using HTML5 Canvas, CSS, and JavaScript.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/abhishektripathi-dev/snake-game.git
+   git clone https://github.com/your-username/snake-game.git
    ```
 2. Open `index.html` in a web browser
 
-No additional dependencies or installation required.
+**OR**
+
+Play directly online: [Live Demo](https://wonderful-kitten-15a771.netlify.app/)
 
 ## How to Play
 
@@ -81,33 +84,17 @@ Main functions:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Connect with the Creator
+
+**Abhishek Tripathi**  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/imabhishek-tripathi/](https://www.linkedin.com/in/imabhishek-tripathi/)
+- 🐦 X (Twitter): [https://x.com/imabhishek_tri](https://x.com/imabhishek_tri)
+- 🐙 GitHub: [https://github.com/abhishektripathi-dev/](https://github.com/abhishektripathi-dev/)
+- 📧 Email: [abhishektripathi3196@gmail.com](mailto:abhishektripathi3196@gmail.com)
+
 ## Acknowledgments
 
 - Inspired by classic Nokia Snake game
 - Modern JavaScript implementation
 - Free to use and modify under MIT License
 ```
-
-This README includes:
-1. Project overview
-2. Key features
-3. Installation instructions
-4. Gameplay instructions
-5. Customization options
-6. Code structure explanation
-7. License information
-8. Acknowledgments
-
-To use this README:
-1. Save it as `README.md` in your project root
-2. Replace placeholder URLs with actual repository links
-3. Add real screenshots when available
-4. Update license information if needed
-5. Customize sections to match your preferences
-
-You might want to add:
-- Contribution guidelines
-- Known issues
-- Future development plans
-- Browser compatibility information
-- Mobile responsiveness notes# snake-game
