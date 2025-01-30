@@ -24,7 +24,7 @@ A classic Snake game implementation using HTML5 Canvas, CSS, and JavaScript.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/snake-game.git
+   git clone https://github.com/abhishektripathi-dev/snake-game.gti
    ```
 2. Open `index.html` in a web browser
 
